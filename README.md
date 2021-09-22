@@ -11,3 +11,9 @@ Informe a opção desejada:
 C- Limpar Tela
 X- Sair
 ```
+
+### build
+`dotnet build`
+
+### rodar o programa
+`dotnet run`
